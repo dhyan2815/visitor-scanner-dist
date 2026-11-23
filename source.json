@@ -1,0 +1,24 @@
+{
+  "name": "Linearloop Visitor Scanner",
+  "identifier": "com.linearloop.visitorscanner.source",
+  "apps": [
+    {
+      "name": "Visitor Scanner",
+      "bundleIdentifier": "com.dhyan2815.visitorscanner",
+      "developerName": "Linearloop",
+      "localizedDescription": "Scan visiting cards into leads, online or offline.",
+      "iconURL": "https://raw.githubusercontent.com/dhyan2815/visitor-scanner-dist/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-11-23T07:10:47.840Z",
+          "downloadURL": "https://github.com/dhyan2815/visitor-scanner-dist/releases/download/v1.0.0-2/VisitorScanner-1.0.0-2.ipa",
+          "size": 44865151,
+          "minOSVersion": "16.4"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
